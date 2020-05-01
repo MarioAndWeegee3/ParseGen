@@ -1,0 +1,111 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JetCodeStyleSettings>
+      <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+        <value>
+          <package name="java.util" withSubpackages="false" static="false" />
+          <package name="kotlinx.android.synthetic" withSubpackages="true" static="false" />
+          <package name="tornadofx" withSubpackages="false" static="false" />
+        </value>
+      </option>
+      <option name="SPACE_AFTER_TYPE_COLON" value="false" />
+      <option name="SPACE_BEFORE_EXTEND_COLON" value="false" />
+      <option name="SPACE_AFTER_EXTEND_COLON" value="false" />
+      <option name="INSERT_WHITESPACES_IN_SIMPLE_ONE_LINE_METHOD" value="false" />
+      <option name="SPACE_BEFORE_WHEN_PARENTHESES" value="false" />
+    </JetCodeStyleSettings>
+    <RsCodeStyleSettings>
+      <option name="SPACE_AROUND_ASSOC_TYPE_BINDING" value="true" />
+    </RsCodeStyleSettings>
+    <ScalaCodeStyleSettings>
+      <option name="importsWithPrefix">
+        <array>
+          <option value="exclude:scala.collection.mutable.ArrayBuffer" />
+          <option value="exclude:scala.collection.mutable.ArrayDeque" />
+          <option value="exclude:scala.collection.mutable.ListBuffer" />
+          <option value="java.util.AbstractCollection" />
+          <option value="java.util.AbstractList" />
+          <option value="java.util.AbstractMap" />
+          <option value="java.util.AbstractQueue" />
+          <option value="java.util.AbstractSequentialList" />
+          <option value="java.util.AbstractSet" />
+          <option value="java.util.ArrayDeque" />
+          <option value="java.util.ArrayList" />
+          <option value="java.util.Arrays" />
+          <option value="java.util.BitSet" />
+          <option value="java.util.Collection" />
+          <option value="java.util.Deque" />
+          <option value="java.util.EnumMap" />
+          <option value="java.util.EnumSet" />
+          <option value="java.util.Enumeration" />
+          <option value="java.util.HashMap" />
+          <option value="java.util.HashSet" />
+          <option value="java.util.Hashtable" />
+          <option value="java.util.IdentityHashMap" />
+          <option value="java.util.Iterator" />
+          <option value="java.util.LinkedHashMap" />
+          <option value="java.util.LinkedHashSet" />
+          <option value="java.util.LinkedList" />
+          <option value="java.util.List" />
+          <option value="java.util.ListIterator" />
+          <option value="java.util.Map" />
+          <option value="java.util.NavigableMap" />
+          <option value="java.util.NavigableSet" />
+          <option value="java.util.Queue" />
+          <option value="java.util.Set" />
+          <option value="java.util.SortedMap" />
+          <option value="java.util.SortedSet" />
+          <option value="java.util.Stack" />
+          <option value="java.util.SubList" />
+          <option value="java.util.TreeMap" />
+          <option value="java.util.TreeSet" />
+          <option value="java.util.Vector" />
+          <option value="java.util.WeakHashMap" />
+          <option value="org.scalatest.fixture._" />
+          <option value="org.scalatest.path._" />
+          <option value="scala.collection.mutable._" />
+          <option value="scala.reflect.macros.blackbox.Context" />
+          <option value="scala.reflect.macros.whitebox.Context" />
+        </array>
+      </option>
+      <option name="SPACE_INSIDE_SELF_TYPE_BRACES" value="false" />
+      <option name="SPACE_BEFORE_INFIX_METHOD_CALL_PARENTHESES" value="true" />
+      <option name="SPACE_BEFORE_INFIX_OPERATOR_LIKE_METHOD_CALL_PARENTHESES" value="false" />
+      <option name="SPACE_AFTER_TYPE_COLON" value="false" />
+      <option name="NEWLINE_AFTER_ANNOTATIONS" value="true" />
+      <option name="SPACE_BEFORE_TYPE_PARAMETER_LEADING_CONTEXT_BOUND_COLON_HK" value="false" />
+      <option name="SPACE_BEFORE_TYPE_PARAMETER_REST_CONTEXT_BOUND_COLONS" value="false" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="D">
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="JSON">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="4" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="kotlin">
+      <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+      <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+      <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+      <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+      <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+      <option name="WRAP_ON_TYPING" value="1" />
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>

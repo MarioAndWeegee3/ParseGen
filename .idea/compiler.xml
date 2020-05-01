@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="com.example.ParseGen.jvmMain" target="1.6" />
+      <module name="com.example.ParseGen.jvmTest" target="1.6" />
+      <module name="marioandweegee3.ParseGen.jvmMain" target="1.6" />
+      <module name="marioandweegee3.ParseGen.jvmTest" target="1.6" />
+      <module name="ParseGen.jvmMain~1" target="1.6" />
+      <module name="ParseGen.jvmTest~1" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
